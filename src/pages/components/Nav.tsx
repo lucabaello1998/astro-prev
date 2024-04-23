@@ -41,7 +41,7 @@ export default function nav() {
         />
       </svg>
       <div>
-        <img src="my-repo/avatar.png" alt="Hua profile picture" />
+        <img src="src/assets/avatar.png" alt="Hua profile picture" />
       </div>
 
       {/* Titulo */}
